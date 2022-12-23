@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "PrepareDenseScene_1",
+    "nodeType": "PrepareDenseScene",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_prepareDenseScene  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/2d44b59051393d40a1c1065c2d577518b016dfb8/sfm.abc\" --outputFileType exr --saveMetadata True --saveMatricesTxtFiles False --evCorrection False --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/PrepareDenseScene/b51b1aa868a56279e486553c3ed28124f11ce38e\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2022-12-20 22:57:51.468074",
+    "endDateTime": "2022-12-20 22:57:56.110590",
+    "elapsedTime": 4.642516374588013,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "9118305e-80b0-11ed-ad3f-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:04.642516"
+}

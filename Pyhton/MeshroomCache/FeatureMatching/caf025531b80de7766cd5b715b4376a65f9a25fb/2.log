@@ -1,0 +1,136 @@
+Program called with the following parameters:
+ * crossMatching = 0
+ * describerTypes = "sift"
+ * distanceRatio = 0.8
+ * exportDebugFiles = 0
+ * featuresFolders =  = [C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/93f7cfa9b3567427fcbedc2b4f8a7ab0d372893f]
+ * geometricError = 0
+ * geometricEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * geometricFilterType = "fundamental_matrix"
+ * guidedMatching = 0
+ * imagePairsList =  = [C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt]
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/a3645ec86f7881b3b2176a7c46c225d285b177e6/cameraInit.sfm"
+ * knownPosesGeometricErrorMax = 5
+ * matchFilePerImage = 0 (default)
+ * matchFromKnownCameraPoses = 0
+ * maxIteration = 2048
+ * maxMatches = 0
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureMatching/caf025531b80de7766cd5b715b4376a65f9a25fb"
+ * photometricMatchingMethod = "ANN_L2"
+ * randomSeed = 5489 (default)
+ * rangeSize = 20
+ * rangeStart = 40
+ * savePutativeMatches = 0
+ * useGridSort = 1 (default)
+ * verboseLevel = "info"
+
+[23:32:29.635069][info] Load pair list from file: C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1702428709) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1755604848) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1884136924) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1902357660) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1938578414) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1699946431, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 1755604848) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 1884136924) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 1902357660) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 1938578414) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1702428709, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 1884136924) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 1902357660) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 1938578414) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1755604848, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1884136924, 1902357660) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1884136924, 1938578414) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1884136924, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1884136924, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1884136924, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1902357660, 1938578414) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1902357660, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1902357660, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1902357660, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1938578414, 1973385072) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1938578414, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1938578414, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1973385072, 2084780713) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (1973385072, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] loadPairs: image pair (2084780713, 2143805328) added. File: "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt".
+[23:32:29.635069][info] Number of pairs: 36
+[23:32:29.635069][info] There are 49 views and 36 image pairs.
+[23:32:29.635069][info] Load features and descriptors
+Loading regions
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+[23:32:29.662963][info] Supported CUDA-Enabled GPU detected.
+*********[23:32:30.164030][info] Putative matches (unknown poses): 36 image pairs.
+[23:32:30.164030][info] sift Regions Matching
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:32:43.710621][info] 36 putative image pair matches
+[23:32:43.710621][info] 	- image pair (1699946431, 1702428709) contains 184 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 1755604848) contains 164 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 1884136924) contains 148 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 1902357660) contains 215 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 1938578414) contains 200 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 1973385072) contains 187 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 2084780713) contains 165 putative matches.
+[23:32:43.710621][info] 	- image pair (1699946431, 2143805328) contains 193 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 1755604848) contains 168 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 1884136924) contains 139 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 1902357660) contains 241 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 1938578414) contains 349 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 1973385072) contains 203 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 2084780713) contains 186 putative matches.
+[23:32:43.710621][info] 	- image pair (1702428709, 2143805328) contains 201 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 1884136924) contains 202 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 1902357660) contains 184 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 1938578414) contains 166 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 1973385072) contains 185 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 2084780713) contains 259 putative matches.
+[23:32:43.710621][info] 	- image pair (1755604848, 2143805328) contains 190 putative matches.
+[23:32:43.710621][info] 	- image pair (1884136924, 1902357660) contains 208 putative matches.
+[23:32:43.710621][info] 	- image pair (1884136924, 1938578414) contains 209 putative matches.
+[23:32:43.710621][info] 	- image pair (1884136924, 1973385072) contains 200 putative matches.
+[23:32:43.710621][info] 	- image pair (1884136924, 2084780713) contains 205 putative matches.
+[23:32:43.710621][info] 	- image pair (1884136924, 2143805328) contains 165 putative matches.
+[23:32:43.710621][info] 	- image pair (1902357660, 1938578414) contains 176 putative matches.
+[23:32:43.710621][info] 	- image pair (1902357660, 1973385072) contains 336 putative matches.
+[23:32:43.710621][info] 	- image pair (1902357660, 2084780713) contains 191 putative matches.
+[23:32:43.710621][info] 	- image pair (1902357660, 2143805328) contains 156 putative matches.
+[23:32:43.710621][info] 	- image pair (1938578414, 1973385072) contains 186 putative matches.
+[23:32:43.710621][info] 	- image pair (1938578414, 2084780713) contains 169 putative matches.
+[23:32:43.710621][info] 	- image pair (1938578414, 2143805328) contains 221 putative matches.
+[23:32:43.710621][info] 	- image pair (1973385072, 2084780713) contains 180 putative matches.
+[23:32:43.710621][info] 	- image pair (1973385072, 2143805328) contains 168 putative matches.
+[23:32:43.710621][info] 	- image pair (2084780713, 2143805328) contains 154 putative matches.
+[23:32:43.710621][info] Task (Regions Matching) done in (s): 13.546000
+[23:32:43.711651][info] Geometric filtering: using fundamental_matrix
+Robust Model Estimation
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[23:32:44.899608][info] 6 geometric image pair matches:
+[23:32:44.899608][info] 	- image pair (1699946431, 2143805328) contains 62 geometric matches.
+[23:32:44.899608][info] 	- image pair (1702428709, 1938578414) contains 131 geometric matches.
+[23:32:44.899608][info] 	- image pair (1755604848, 1884136924) contains 69 geometric matches.
+[23:32:44.899608][info] 	- image pair (1755604848, 2084780713) contains 68 geometric matches.
+[23:32:44.899608][info] 	- image pair (1902357660, 1973385072) contains 97 geometric matches.
+[23:32:44.899608][info] 	- image pair (1938578414, 2143805328) contains 53 geometric matches.
+[23:32:44.899608][info] Grid filtering
+[23:32:44.899608][info] After grid filtering:
+[23:32:44.899608][info] 	- image pair (1699946431, 2143805328) contains 62 geometric matches.
+[23:32:44.899608][info] 	- image pair (1702428709, 1938578414) contains 131 geometric matches.
+[23:32:44.899608][info] 	- image pair (1755604848, 1884136924) contains 69 geometric matches.
+[23:32:44.899608][info] 	- image pair (1755604848, 2084780713) contains 68 geometric matches.
+[23:32:44.899608][info] 	- image pair (1902357660, 1973385072) contains 97 geometric matches.
+[23:32:44.899608][info] 	- image pair (1938578414, 2143805328) contains 53 geometric matches.
+[23:32:44.899608][info] Save geometric matches.
+[23:32:44.907478][info] Task done in (s): 1.196000

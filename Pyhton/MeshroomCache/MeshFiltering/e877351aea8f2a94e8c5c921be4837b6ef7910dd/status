@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "MeshFiltering_1",
+    "nodeType": "MeshFiltering",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_meshFiltering  --inputMesh \"C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/9ba89300433ed3c42125d333868b4b7e9f4882b5/mesh.obj\" --keepLargestMeshOnly False --smoothingSubset all --smoothingBoundariesNeighbours 0 --smoothingIterations 5 --smoothingLambda 1.0 --filteringSubset all --filteringIterations 1 --filterLargeTrianglesFactor 60.0 --filterTrianglesRatio 0.0 --verboseLevel info --outputMesh \"C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/e877351aea8f2a94e8c5c921be4837b6ef7910dd/mesh.obj\"",
+    "env": null,
+    "startDateTime": "2022-12-20 23:42:05.705621",
+    "endDateTime": "2022-12-20 23:42:07.073225",
+    "elapsedTime": 1.3676037788391113,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "9118305e-80b0-11ed-ad3f-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:01.367604"
+}

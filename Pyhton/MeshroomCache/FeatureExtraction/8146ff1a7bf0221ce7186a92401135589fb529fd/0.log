@@ -1,0 +1,117 @@
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/cf765fe973f4f9127579f8d5c46c323ba8aa498f/cameraInit.sfm"
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/8146ff1a7bf0221ce7186a92401135589fb529fd"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel =  Unknown Type "enum aliceVision::system::EVerboseLevel"
+
+[22:52:54.499999][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce MX330
+	- compute capability:      6.1
+	- total device memory:     2047 MB 
+	- device memory available: 1654 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        3
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+0
+[22:52:54.600521][info] Supported CUDA-Enabled GPU detected.
+[22:52:54.601521][info] Job max memory consumption for one image: 939 MB
+[22:52:54.601521][info] Memory information: 
+	- Total RAM:     15.841 GB
+	- Free RAM:      7.705 GB
+	- Available RAM: 7.705 GB
+	- Total swap:    131072 GB
+	- Free swap:     131039 GB
+[22:52:54.601521][info] Max number of threads regarding memory usage: 7
+[22:52:54.601521][warning] More than half of the RAM is used by other applications. It would be more efficient to close them.
+[22:52:54.601521][warning]  => 8 GB are used by other applications for a total RAM capacity of 16 GB.
+[22:52:54.601521][info] # threads for extraction: 7
+[22:52:54.801983][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4344.jpg' [cpu]
+[22:52:54.809961][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4346.jpg' [cpu]
+[22:52:54.821931][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4321.jpg' [cpu]
+[22:52:54.826932][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4340.jpg' [cpu]
+[22:52:54.827913][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4338.jpg' [cpu]
+[22:52:54.832901][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4332.jpg' [cpu]
+[22:52:54.874791][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4327.jpg' [cpu]
+[22:53:11.625317][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4344.jpg'
+[22:53:11.775019][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4326.jpg' [cpu]
+[22:53:12.322628][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4332.jpg'
+[22:53:12.555008][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4324.jpg' [cpu]
+[22:53:13.595226][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4321.jpg'
+[22:53:13.739856][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4342.jpg' [cpu]
+[22:53:15.193951][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4346.jpg'
+[22:53:15.313633][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4340.jpg'
+[22:53:15.368484][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4338.jpg'
+[22:53:15.424336][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4341.jpg' [cpu]
+[22:53:15.520079][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4333.jpg' [cpu]
+[22:53:15.593888][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4334.jpg' [cpu]
+[22:53:16.062398][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4327.jpg'
+[22:53:16.232949][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4328.jpg' [cpu]
+[22:53:30.677268][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4326.jpg'
+[22:53:31.174937][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4348.jpg' [cpu]
+[22:53:32.524329][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4324.jpg'
+[22:53:32.709834][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4331.jpg' [cpu]
+[22:53:33.254946][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4342.jpg'
+[22:53:33.377618][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4318.jpg' [cpu]
+[22:53:36.442008][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4334.jpg'
+[22:53:36.666094][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4319.jpg' [cpu]
+[22:53:37.337988][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4333.jpg'
+[22:53:37.534976][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4337.jpg' [cpu]
+[22:53:37.828713][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4341.jpg'
+[22:53:37.906503][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4328.jpg'
+[22:53:38.057242][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4325.jpg' [cpu]
+[22:53:38.173932][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4320.jpg' [cpu]
+[22:53:50.526747][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4348.jpg'
+[22:53:50.788838][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4347.jpg' [cpu]
+[22:53:56.785803][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4331.jpg'
+[22:53:56.933856][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4336.jpg' [cpu]
+[22:53:57.168230][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4318.jpg'
+[22:53:57.310802][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4323.jpg' [cpu]
+[22:54:01.048826][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4319.jpg'
+[22:54:01.359580][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4330.jpg' [cpu]
+[22:54:01.620876][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4337.jpg'
+[22:54:01.828336][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4339.jpg' [cpu]
+[22:54:02.340586][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4320.jpg'
+[22:54:02.535941][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4345.jpg' [cpu]
+[22:54:02.709740][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4325.jpg'
+[22:54:02.995615][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4329.jpg' [cpu]
+[22:54:14.025725][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4347.jpg'
+[22:54:20.591841][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4336.jpg'
+[22:54:20.723749][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4322.jpg' [cpu]
+[22:54:20.932755][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4323.jpg'
+[22:54:23.723929][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4330.jpg'
+[22:54:23.793742][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4339.jpg'
+[22:54:23.891005][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4343.jpg' [cpu]
+[22:54:24.155381][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4329.jpg'
+[22:54:24.276064][info] Extracting sift features from view 'C:/Users/berna/Downloads/IMG_4335.jpg' [cpu]
+[22:54:24.542822][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4345.jpg'
+[22:54:34.157587][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4322.jpg'
+[22:54:36.878204][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4343.jpg'
+[22:54:36.904134][info]       20000 sift features extracted from view 'C:/Users/berna/Downloads/IMG_4335.jpg'
+[22:54:36.907127][info] Task done in (s): 102.306000

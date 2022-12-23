@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "DepthMap_1",
+    "nodeType": "DepthMap",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_depthMapEstimation  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/4fc649fec4efa7342fb57ae5c638030b64d0e0d5/sfm.abc\" --imagesFolder \"C:/UNI/N3CAT/Pyhton/MeshroomCache/PrepareDenseScene/1d3a8fb03483538abc03bb1049f07b1a37f3443f\" --downscale 2 --minViewAngle 2.0 --maxViewAngle 70.0 --sgmMaxTCams 10 --sgmWSH 4 --sgmGammaC 5.5 --sgmGammaP 8.0 --refineMaxTCams 6 --refineNSamplesHalf 150 --refineNDepthsToRefine 31 --refineNiters 100 --refineWSH 3 --refineSigma 15 --refineGammaC 15.5 --refineGammaP 8.0 --refineUseTcOrRcPixSize False --exportIntermediateResults False --nbGPUs 0 --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMap/668705f3d4eae4c1b89709dd2cc901b0ae0bb2ff\" --rangeStart 36 --rangeSize 3",
+    "env": null,
+    "startDateTime": "2022-12-20 23:40:17.863807",
+    "endDateTime": "2022-12-20 23:40:18.206554",
+    "elapsedTime": 0.34274792671203613,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "9118305e-80b0-11ed-ad3f-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.342748"
+}

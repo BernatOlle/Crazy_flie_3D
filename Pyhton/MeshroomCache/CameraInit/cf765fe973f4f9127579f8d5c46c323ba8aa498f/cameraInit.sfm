@@ -1,0 +1,659 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "views": [
+        {
+            "viewId": "47467727",
+            "poseId": "47467727",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4338.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "149885054",
+            "poseId": "149885054",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4334.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "214244196",
+            "poseId": "214244196",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4319.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "518996619",
+            "poseId": "518996619",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4330.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "541324800",
+            "poseId": "541324800",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4343.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "545453080",
+            "poseId": "545453080",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4332.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "638335635",
+            "poseId": "638335635",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4324.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "660098527",
+            "poseId": "660098527",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4331.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "673943242",
+            "poseId": "673943242",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4336.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "706171595",
+            "poseId": "706171595",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4322.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "717024809",
+            "poseId": "717024809",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4346.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "811006544",
+            "poseId": "811006544",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4341.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "821583700",
+            "poseId": "821583700",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4325.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1001553481",
+            "poseId": "1001553481",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4329.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1019912919",
+            "poseId": "1019912919",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4335.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1022682392",
+            "poseId": "1022682392",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4327.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1037766083",
+            "poseId": "1037766083",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4328.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1041322491",
+            "poseId": "1041322491",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4320.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1060096640",
+            "poseId": "1060096640",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4345.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1269743005",
+            "poseId": "1269743005",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4344.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1456096126",
+            "poseId": "1456096126",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4326.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1467085765",
+            "poseId": "1467085765",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4348.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1527843023",
+            "poseId": "1527843023",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4347.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1560609777",
+            "poseId": "1560609777",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4321.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1711426389",
+            "poseId": "1711426389",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4342.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1762278700",
+            "poseId": "1762278700",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4318.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1785119642",
+            "poseId": "1785119642",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4323.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1821028232",
+            "poseId": "1821028232",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4340.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1821719250",
+            "poseId": "1821719250",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4333.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1944779128",
+            "poseId": "1944779128",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4337.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2116815287",
+            "poseId": "2116815287",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4339.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "2460111422",
+            "width": "2016",
+            "height": "1512",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75",
+            "serialNumber": "C:\/Users\/berna\/Downloads",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "2433.5272708720795",
+            "principalPoint": [
+                "1008",
+                "756"
+            ],
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "locked": "0"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/cf765fe973f4f9127579f8d5c46c323ba8aa498f/cameraInit.sfm\" --describerTypes sift --describerPreset normal --describerQuality normal --contrastFiltering GridSort --gridFiltering True --forceCpuExtraction True --maxThreads 0 --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/8146ff1a7bf0221ce7186a92401135589fb529fd\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2022-12-20 22:52:54.400854",
+    "endDateTime": "2022-12-20 22:54:37.964301",
+    "elapsedTime": 103.56344771385193,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "9118305e-80b0-11ed-ad3f-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:01:43.563448"
+}

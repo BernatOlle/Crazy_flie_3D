@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_texturing  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/246903389ff840e24a2029ad049246ee032efda8/densePointCloud.abc\" --imagesFolder \"C:/UNI/N3CAT/Pyhton/MeshroomCache/PrepareDenseScene/e310558ad44b5909ac834f4b445278ee3be8bf20\" --inputMesh \"C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/7e104fbf7fe753b4d6cd20894839dbd058478a6e/mesh.obj\" --textureSide 8192 --downscale 2 --outputTextureFileType png --unwrapMethod Basic --useUDIM True --fillHoles False --padding 5 --multiBandDownscale 4 --multiBandNbContrib 1 5 10 0 --useScore True --bestScoreThreshold 0.1 --angleHardThreshold 90.0 --processColorspace sRGB --correctEV False --forceVisibleByAllVertices False --flipNormals False --visibilityRemappingMethod PullPush --subdivisionTargetRatio 0.8 --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/Texturing/23b8b710c5a09e8000a5a4a29fec26bc5be8cf89\"",
+    "env": null,
+    "startDateTime": "2022-12-20 22:37:31.460325",
+    "endDateTime": "2022-12-20 22:37:46.336045",
+    "elapsedTime": 14.87571907043457,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "a2a7648c-80ad-11ed-b9a2-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:14.875719"
+}

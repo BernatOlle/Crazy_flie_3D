@@ -1,0 +1,51 @@
+Program called with the following parameters:
+ * filterLargeTrianglesFactor = 60
+ * filterTrianglesRatio = 0
+ * filteringIterations = 1
+ * filteringSubset = "all"
+ * inputMesh = "C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/9ba89300433ed3c42125d333868b4b7e9f4882b5/mesh.obj"
+ * keepLargestMeshOnly = 0
+ * outputMesh = "C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/e877351aea8f2a94e8c5c921be4837b6ef7910dd/mesh.obj"
+ * smoothingBoundariesNeighbours = 0
+ * smoothingIterations = 5
+ * smoothingLambda = 1
+ * smoothingSubset = "all"
+ * verboseLevel = "info"
+
+[23:42:05.765753][info] Loading mesh from obj file: C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/9ba89300433ed3c42125d333868b4b7e9f4882b5/mesh.obj
+[23:42:05.846349][info] 	- # vertices: 71306
+	- # normals: 0
+	- # uv coordinates: 0
+	- # triangles: 142291
+[23:42:06.102418][info] Mesh loaded: 
+	- #points: 71306
+	- # triangles: 142291
+[23:42:06.102418][info] Mesh file: "C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/9ba89300433ed3c42125d333868b4b7e9f4882b5/mesh.obj" loaded.
+[23:42:06.102418][info] Input mesh: 71306 vertices and 142291 facets.
+[23:42:06.102418][info] Start mesh filtering.
+[23:42:06.102418][info] Mesh filtering: iteration 0
+[23:42:06.102418][info] Filtering large triangles.
+[23:42:06.113452][info] Filtering large triangles, done.
+[23:42:06.113452][info] Mesh filtering done: 71306 vertices and 142291 facets.
+[23:42:06.113452][info] Start mesh smoothing.
+[23:42:06.645143][info] cleanMesh:
+	- # wrong points: 0
+	- # new points: 0
+[23:42:06.739951][info] Optimizing mesh smooth: 
+	- lamda: 1
+	- niters: 5
+[23:42:06.739951][info] Optimizing mesh smooth: iteration 0
+[23:42:06.739951][info] Optimizing mesh smooth: iteration 1
+[23:42:06.754806][info] Optimizing mesh smooth: iteration 2
+[23:42:06.767407][info] Optimizing mesh smooth: iteration 3
+[23:42:06.767407][info] Optimizing mesh smooth: iteration 4
+[23:42:06.780146][info] Mesh smoothing done: 71306 vertices and 142291 facets.
+[23:42:06.780146][info] remove free points from mesh.
+Output mesh: 71306 vertices and 142291 facets.
+[23:42:06.795770][info] Save mesh.
+[23:42:06.795770][info] Save mesh to obj: C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/e877351aea8f2a94e8c5c921be4837b6ef7910dd/mesh.obj
+[23:42:06.795770][info] Nb points: 71306
+[23:42:06.795770][info] Nb triangles: 142291
+[23:42:07.006510][info] Save mesh to obj done.
+[23:42:07.006510][info] Mesh file: "C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/e877351aea8f2a94e8c5c921be4837b6ef7910dd/mesh.obj" saved.
+[23:42:07.006510][info] Task done in (s): 1.235000

@@ -1,0 +1,120 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 49<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 159573757<br>image path: C:/UNI/N3CAT/images/IMG_4391.jpg<br>-> View J:<br>id: 986967454<br>image path: C:/UNI/N3CAT/images/IMG_4390.jpg<br><br>- Threshold: 61.9329<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 426<br>- # points validated by robust estimation: 413<br>- % points validated: 0.969484<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 61.9329</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [253.00000,195.00000,194.00000,86.00000,44.00000,28.00000,16.00000,10.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+var p2 = board.create('point',[61.93285,0.00000], {fixed:true});
+var p3 = board.create('point',[61.93285,253.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,301.60000,4.80000,-38.60000]);
+</script>
+<hr><h4>Robust resection of view 1258447448: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4370.jpg<br>- Threshold (error max): 10.6788<br>- Resection status: OK<br>- # points used for Resection: 241<br>- # points validated by robust estimation: 233<br>- % points validated: 0.966805<br><h4>Robust resection of view 1973385072: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4369.jpg<br>- Threshold (error max): 2.79863<br>- Resection status: OK<br>- # points used for Resection: 307<br>- # points validated by robust estimation: 297<br>- % points validated: 0.967427<br><h4>Robust resection of view 1902357660: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4373.jpg<br>- Threshold (error max): 6.5898<br>- Resection status: OK<br>- # points used for Resection: 255<br>- # points validated by robust estimation: 240<br>- % points validated: 0.941176<br><h4>Robust resection of view 1149366185: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4374.jpg<br>- Threshold (error max): 5.05512<br>- Resection status: OK<br>- # points used for Resection: 296<br>- # points validated by robust estimation: 282<br>- % points validated: 0.952703<br><h4>Robust resection of view 699061968: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4368.jpg<br>- Threshold (error max): 2.45495<br>- Resection status: OK<br>- # points used for Resection: 545<br>- # points validated by robust estimation: 509<br>- % points validated: 0.933945<br><h4>Robust resection of view 942149430: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4382.jpg<br>- Threshold (error max): 5.94337<br>- Resection status: OK<br>- # points used for Resection: 341<br>- # points validated by robust estimation: 309<br>- % points validated: 0.906158<br><h4>Robust resection of view 684186939: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4371.jpg<br>- Threshold (error max): 3.65998<br>- Resection status: OK<br>- # points used for Resection: 411<br>- # points validated by robust estimation: 384<br>- % points validated: 0.934307<br><h4>Robust resection of view 32937562: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4396.jpg<br>- Threshold (error max): 5.90086<br>- Resection status: OK<br>- # points used for Resection: 318<br>- # points validated by robust estimation: 290<br>- % points validated: 0.91195<br><h4>Robust resection of view 1267978424: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4381.jpg<br>- Threshold (error max): 3.62708<br>- Resection status: OK<br>- # points used for Resection: 589<br>- # points validated by robust estimation: 551<br>- % points validated: 0.935484<br><h4>Robust resection of view 1283547991: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4397.jpg<br>- Threshold (error max): 5.28722<br>- Resection status: OK<br>- # points used for Resection: 536<br>- # points validated by robust estimation: 512<br>- % points validated: 0.955224<br><h4>Robust resection of view 27999187: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4380.jpg<br>- Threshold (error max): 3.3048<br>- Resection status: OK<br>- # points used for Resection: 625<br>- # points validated by robust estimation: 602<br>- % points validated: 0.9632<br><h4>Robust resection of view 127238577: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4367.jpg<br>- Threshold (error max): 3.92205<br>- Resection status: OK<br>- # points used for Resection: 280<br>- # points validated by robust estimation: 272<br>- % points validated: 0.971429<br><h4>Robust resection of view 475485699: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4366.jpg<br>- Threshold (error max): 2.98687<br>- Resection status: OK<br>- # points used for Resection: 322<br>- # points validated by robust estimation: 289<br>- % points validated: 0.897516<br><h4>Robust resection of view 489582472: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4365.jpg<br>- Threshold (error max): 5.97697<br>- Resection status: OK<br>- # points used for Resection: 35<br>- # points validated by robust estimation: 33<br>- % points validated: 0.942857<br><h4>Robust resection of view 904686015: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4389.jpg<br>- Threshold (error max): 6.49656<br>- Resection status: OK<br>- # points used for Resection: 61<br>- # points validated by robust estimation: 58<br>- % points validated: 0.95082<br><h4>Robust resection of view 53668543: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4364.jpg<br>- Threshold (error max): 5.25229<br>- Resection status: OK<br>- # points used for Resection: 96<br>- # points validated by robust estimation: 90<br>- % points validated: 0.9375<br><h4>Robust resection of view 875104850: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4383.jpg<br>- Threshold (error max): 7.3764<br>- Resection status: OK<br>- # points used for Resection: 122<br>- # points validated by robust estimation: 114<br>- % points validated: 0.934426<br><h4>Robust resection of view 1171417480: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4392.jpg<br>- Threshold (error max): 7.89287<br>- Resection status: OK<br>- # points used for Resection: 119<br>- # points validated by robust estimation: 111<br>- % points validated: 0.932773<br><h4>Robust resection of view 1575179853: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4349.jpg<br>- Threshold (error max): 3.25037<br>- Resection status: OK<br>- # points used for Resection: 678<br>- # points validated by robust estimation: 634<br>- % points validated: 0.935103<br><h4>Robust resection of view 732839726: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4393.jpg<br>- Threshold (error max): 9.22222<br>- Resection status: OK<br>- # points used for Resection: 105<br>- # points validated by robust estimation: 94<br>- % points validated: 0.895238<br><h4>Robust resection of view 655247208: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4350.jpg<br>- Threshold (error max): 5.11392<br>- Resection status: OK<br>- # points used for Resection: 190<br>- # points validated by robust estimation: 184<br>- % points validated: 0.968421<br><h4>Robust resection of view 901328992: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4351.jpg<br>- Threshold (error max): 3.46064<br>- Resection status: OK<br>- # points used for Resection: 157<br>- # points validated by robust estimation: 141<br>- % points validated: 0.898089<br><h4>Robust resection of view 1702428709: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4352.jpg<br>- Threshold (error max): 6.54167<br>- Resection status: OK<br>- # points used for Resection: 64<br>- # points validated by robust estimation: 64<br>- % points validated: 1<br><h4>Robust resection of view 1120356350: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4362.jpg<br>- Threshold (error max): 6.67034<br>- Resection status: OK<br>- # points used for Resection: 60<br>- # points validated by robust estimation: 60<br>- % points validated: 1<br><h4>Robust resection of view 886681181: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4363.jpg<br>- Threshold (error max): 3.59967<br>- Resection status: OK<br>- # points used for Resection: 140<br>- # points validated by robust estimation: 134<br>- % points validated: 0.957143<br><h4>Robust resection of view 2084780713: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4361.jpg<br>- Threshold (error max): 3.65578<br>- Resection status: OK<br>- # points used for Resection: 45<br>- # points validated by robust estimation: 44<br>- % points validated: 0.977778<br><h4>Robust resection of view 714556704: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4388.jpg<br>- Threshold (error max): 4.7532<br>- Resection status: OK<br>- # points used for Resection: 46<br>- # points validated by robust estimation: 45<br>- % points validated: 0.978261<br><h4>Robust resection of view 374634459: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4375.jpg<br>- Threshold (error max): 6.65077<br>- Resection status: FAILED<br>- # points used for Resection: 12<br>- # points validated by robust estimation: 10<br>- % points validated: 0.833333<br><h4>Robust resection of view 1938578414: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4353.jpg<br>- Threshold (error max): 6.6209<br>- Resection status: FAILED<br>- # points used for Resection: 20<br>- # points validated by robust estimation: 19<br>- % points validated: 0.95<br><h4>Robust resection of view 509329008: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4384.jpg<br>- Threshold (error max): 15.6837<br>- Resection status: FAILED<br>- # points used for Resection: 12<br>- # points validated by robust estimation: 12<br>- % points validated: 1<br><h4>Robust resection of view 1639673241: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4387.jpg<br>- Threshold (error max): 7.07399<br>- Resection status: FAILED<br>- # points used for Resection: 16<br>- # points validated by robust estimation: 15<br>- % points validated: 0.9375<br><h4>Robust resection of view 2143805328: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4355.jpg<br>- Threshold (error max): 1.67112<br>- Resection status: FAILED<br>- # points used for Resection: 4<br>- # points validated by robust estimation: 4<br>- % points validated: 1<br><h4>Robust resection of view 1755604848: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4360.jpg<br>- Threshold (error max): 2.41844<br>- Resection status: FAILED<br>- # points used for Resection: 10<br>- # points validated by robust estimation: 10<br>- % points validated: 1<br><h4>Robust resection of view 879965814: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4372.jpg<br>- Threshold (error max): 8.7241<br>- Resection status: FAILED<br>- # points used for Resection: 8<br>- # points validated by robust estimation: 7<br>- % points validated: 0.875<br><h4>Robust resection of view 1636178893: <br></h4>
+
+- Image path: C:/UNI/N3CAT/images/IMG_4358.jpg<br>- Threshold (error max): 0<br>- Resection status: FAILED<br>- # points used for Resection: 1<br>- # points validated by robust estimation: 0<br>- % points validated: 0<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 49<br>- # camera calibrated: 29<br>- # poses: 29
+<br>- # landmarks: 8245<br>- elapsed time: 16.566<br>- residual RMSE: 0.656719<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [12038.00000,6504.00000,2861.00000,1255.00000,636.00000,295.00000,141.00000,93.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,14427.00000,4.80000,-2296.00000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.05556,4.11111,5.16667,6.22222,7.27778,8.33333,9.38889,10.44444,11.50000,12.55556,13.61111,14.66667,15.72222,16.77778,17.83333,18.88889,19.94444,21.00000,];
+var data1= [5225.00000,1527.00000,596.00000,314.00000,166.00000,138.00000,85.00000,54.00000,49.00000,19.00000,19.00000,20.00000,7.00000,9.00000,9.00000,2.00000,3.00000,2.00000,1.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-1.80000,6269.80000,24.80000,-1043.80000]);
+</script>
+</html>

@@ -1,0 +1,29 @@
+Program called with the following parameters:
+ * computeNormalMaps = 0
+ * depthMapsFolder = "C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMap/668705f3d4eae4c1b89709dd2cc901b0ae0bb2ff"
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/4fc649fec4efa7342fb57ae5c638030b64d0e0d5/sfm.abc"
+ * maxViewAngle = 70
+ * minNumOfConsistentCams = 3
+ * minNumOfConsistentCamsWithLowSimilarity = 4
+ * minViewAngle = 2
+ * nNearestCams = 10
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMapFilter/f2fd60d97f260b88435795333d8739877a083427"
+ * pixSizeBall = 0
+ * pixSizeBallWithLowSimilarity = 0
+ * rangeSize = 10
+ * rangeStart = 10
+ * verboseLevel = "info"
+
+[23:40:39.632673][info] Found 2 image dimension(s): 
+[23:40:39.632673][info] 	- [1512x2016]
+[23:40:39.632673][info] 	- [2016x1512]
+[23:40:39.654244][info] Overall maximum dimension: [2016x2016]
+[23:40:39.654244][info] Filter depth maps.
+[23:40:39.654244][info] Precomputing groups.
+[23:40:39.804076][info] Found only 7/10 nearest cameras for view id: 904686015
+[23:40:39.863120][info] Found only 6/10 nearest cameras for view id: 1120356350
+[23:40:39.950101][info] Found only 3/10 nearest cameras for view id: 714556704
+[23:40:42.206585][info] Found only 7/10 nearest cameras for view id: 732839726
+[23:40:48.982743][info] Found only 8/10 nearest cameras for view id: 886681181
+[23:40:53.993173][info] Filtering depth maps.
+[23:40:55.019214][info] Task done in (s): 15.397000

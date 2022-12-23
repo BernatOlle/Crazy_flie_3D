@@ -1,0 +1,71 @@
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/a3645ec86f7881b3b2176a7c46c225d285b177e6/cameraInit.sfm"
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/93f7cfa9b3567427fcbedc2b4f8a7ab0d372893f"
+ * rangeSize = 40
+ * rangeStart = 40
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel =  Unknown Type "enum aliceVision::system::EVerboseLevel"
+
+[23:25:01.937807][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce MX330
+	- compute capability:      6.1
+	- total device memory:     2047 MB 
+	- device memory available: 1654 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        3
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+0
+[23:25:02.044145][info] Supported CUDA-Enabled GPU detected.
+[23:25:02.044145][info] Job max memory consumption for one image: 939 MB
+[23:25:02.044145][info] Memory information: 
+	- Total RAM:     15.841 GB
+	- Free RAM:      8.17294 GB
+	- Available RAM: 8.17294 GB
+	- Total swap:    131072 GB
+	- Free swap:     131039 GB
+[23:25:02.044145][info] Max number of threads regarding memory usage: 8
+[23:25:02.044145][info] # threads for extraction: 8
+[23:25:02.263785][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4360.jpg' [cpu]
+[23:25:02.264777][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4369.jpg' [cpu]
+[23:25:02.290756][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4386.jpg' [cpu]
+[23:25:02.300655][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4355.jpg' [cpu]
+[23:25:02.301644][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4361.jpg' [cpu]
+[23:25:02.302645][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4373.jpg' [cpu]
+[23:25:02.309830][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4395.jpg' [cpu]
+[23:25:02.342594][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4353.jpg' [cpu]
+[23:25:21.635903][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4360.jpg'
+[23:25:21.894850][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4386.jpg'
+[23:25:21.913384][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4369.jpg'
+[23:25:21.933319][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4373.jpg'
+[23:25:22.057044][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4395.jpg'
+[23:25:22.169510][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4353.jpg'
+[23:25:22.179865][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4352.jpg' [cpu]
+[23:25:22.275501][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4355.jpg'
+[23:25:22.300525][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4361.jpg'
+[23:25:27.853125][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4352.jpg'
+[23:25:27.853125][info] Task done in (s): 25.814000

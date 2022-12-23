@@ -1,0 +1,940 @@
+{
+    "version": [
+        1,
+        0,
+        0
+    ],
+    "views": [
+        {
+            "viewId": 27999187,
+            "poseId": 27999187,
+            "path": "C:/UNI/N3CAT/images/IMG_4380.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 32937562,
+            "poseId": 32937562,
+            "path": "C:/UNI/N3CAT/images/IMG_4396.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 53668543,
+            "poseId": 53668543,
+            "path": "C:/UNI/N3CAT/images/IMG_4364.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 127238577,
+            "poseId": 127238577,
+            "path": "C:/UNI/N3CAT/images/IMG_4367.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 159573757,
+            "poseId": 159573757,
+            "path": "C:/UNI/N3CAT/images/IMG_4391.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 241669312,
+            "poseId": 241669312,
+            "path": "C:/UNI/N3CAT/images/IMG_4359.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 251693205,
+            "poseId": 251693205,
+            "path": "C:/UNI/N3CAT/images/IMG_4356.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 374634459,
+            "poseId": 374634459,
+            "path": "C:/UNI/N3CAT/images/IMG_4375.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 449694440,
+            "poseId": 449694440,
+            "path": "C:/UNI/N3CAT/images/IMG_4379.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 475485699,
+            "poseId": 475485699,
+            "path": "C:/UNI/N3CAT/images/IMG_4366.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 489582472,
+            "poseId": 489582472,
+            "path": "C:/UNI/N3CAT/images/IMG_4365.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 505588389,
+            "poseId": 505588389,
+            "path": "C:/UNI/N3CAT/images/IMG_4354.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 509329008,
+            "poseId": 509329008,
+            "path": "C:/UNI/N3CAT/images/IMG_4384.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 655247208,
+            "poseId": 655247208,
+            "path": "C:/UNI/N3CAT/images/IMG_4350.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 684186939,
+            "poseId": 684186939,
+            "path": "C:/UNI/N3CAT/images/IMG_4371.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 699061968,
+            "poseId": 699061968,
+            "path": "C:/UNI/N3CAT/images/IMG_4368.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 714556704,
+            "poseId": 714556704,
+            "path": "C:/UNI/N3CAT/images/IMG_4388.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 732839726,
+            "poseId": 732839726,
+            "path": "C:/UNI/N3CAT/images/IMG_4393.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 797936791,
+            "poseId": 797936791,
+            "path": "C:/UNI/N3CAT/images/IMG_4357.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 875104850,
+            "poseId": 875104850,
+            "path": "C:/UNI/N3CAT/images/IMG_4383.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 879965814,
+            "poseId": 879965814,
+            "path": "C:/UNI/N3CAT/images/IMG_4372.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 886681181,
+            "poseId": 886681181,
+            "path": "C:/UNI/N3CAT/images/IMG_4363.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 901328992,
+            "poseId": 901328992,
+            "path": "C:/UNI/N3CAT/images/IMG_4351.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 904686015,
+            "poseId": 904686015,
+            "path": "C:/UNI/N3CAT/images/IMG_4389.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 942149430,
+            "poseId": 942149430,
+            "path": "C:/UNI/N3CAT/images/IMG_4382.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 986967454,
+            "poseId": 986967454,
+            "path": "C:/UNI/N3CAT/images/IMG_4390.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1082597294,
+            "poseId": 1082597294,
+            "path": "C:/UNI/N3CAT/images/IMG_4377.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1120356350,
+            "poseId": 1120356350,
+            "path": "C:/UNI/N3CAT/images/IMG_4362.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1134820119,
+            "poseId": 1134820119,
+            "path": "C:/UNI/N3CAT/images/IMG_4378.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1149366185,
+            "poseId": 1149366185,
+            "path": "C:/UNI/N3CAT/images/IMG_4374.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1171417480,
+            "poseId": 1171417480,
+            "path": "C:/UNI/N3CAT/images/IMG_4392.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1193964701,
+            "poseId": 1193964701,
+            "path": "C:/UNI/N3CAT/images/IMG_4394.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1258447448,
+            "poseId": 1258447448,
+            "path": "C:/UNI/N3CAT/images/IMG_4370.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1267978424,
+            "poseId": 1267978424,
+            "path": "C:/UNI/N3CAT/images/IMG_4381.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1283547991,
+            "poseId": 1283547991,
+            "path": "C:/UNI/N3CAT/images/IMG_4397.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1328019164,
+            "poseId": 1328019164,
+            "path": "C:/UNI/N3CAT/images/IMG_4376.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1343711204,
+            "poseId": 1343711204,
+            "path": "C:/UNI/N3CAT/images/IMG_4385.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1575179853,
+            "poseId": 1575179853,
+            "path": "C:/UNI/N3CAT/images/IMG_4349.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1636178893,
+            "poseId": 1636178893,
+            "path": "C:/UNI/N3CAT/images/IMG_4358.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1639673241,
+            "poseId": 1639673241,
+            "path": "C:/UNI/N3CAT/images/IMG_4387.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1699946431,
+            "poseId": 1699946431,
+            "path": "C:/UNI/N3CAT/images/IMG_4395.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1702428709,
+            "poseId": 1702428709,
+            "path": "C:/UNI/N3CAT/images/IMG_4352.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1755604848,
+            "poseId": 1755604848,
+            "path": "C:/UNI/N3CAT/images/IMG_4360.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1884136924,
+            "poseId": 1884136924,
+            "path": "C:/UNI/N3CAT/images/IMG_4386.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1902357660,
+            "poseId": 1902357660,
+            "path": "C:/UNI/N3CAT/images/IMG_4373.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1938578414,
+            "poseId": 1938578414,
+            "path": "C:/UNI/N3CAT/images/IMG_4353.jpg",
+            "intrinsicId": 818628775,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "6",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1973385072,
+            "poseId": 1973385072,
+            "path": "C:/UNI/N3CAT/images/IMG_4369.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 2084780713,
+            "poseId": 2084780713,
+            "path": "C:/UNI/N3CAT/images/IMG_4361.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 2143805328,
+            "poseId": 2143805328,
+            "path": "C:/UNI/N3CAT/images/IMG_4355.jpg",
+            "intrinsicId": 3195940043,
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "1512",
+                "Exif:PixelYDimension": "2016",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": 818628775,
+            "pxInitialFocalLength": -1.0,
+            "pxFocalLength": 2433.5272708720795,
+            "type": "radial3",
+            "width": 2016,
+            "height": 1512,
+            "sensorWidth": -1.0,
+            "sensorHeight": -0.75,
+            "serialNumber": "C:/UNI/N3CAT/images",
+            "principalPoint": [
+                1008.0,
+                756.0
+            ],
+            "initializationMode": "unknown",
+            "distortionParams": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "locked": false
+        },
+        {
+            "intrinsicId": 3195940043,
+            "pxInitialFocalLength": -1.0,
+            "pxFocalLength": 2433.5272708720795,
+            "type": "radial3",
+            "width": 1512,
+            "height": 2016,
+            "sensorWidth": -1.0,
+            "sensorHeight": -0.75,
+            "serialNumber": "C:/UNI/N3CAT/images",
+            "principalPoint": [
+                756.0,
+                1008.0
+            ],
+            "initializationMode": "unknown",
+            "distortionParams": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "locked": false
+        }
+    ],
+    "featureFolder": "",
+    "matchingFolder": ""
+}

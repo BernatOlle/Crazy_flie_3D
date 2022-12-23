@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Meshing_1",
+    "nodeType": "Meshing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_meshing  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/1666b22ded384c04c5857396f9fefebff3df3cb2/sfm.abc\" --depthMapsFolder \"C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMapFilter/56b8df56ce88931490f51827bcecfc5132d7c175\" --estimateSpaceFromSfM True --estimateSpaceMinObservations 3 --estimateSpaceMinObservationAngle 10 --maxInputPoints 50000000 --maxPoints 5000000 --maxPointsPerVoxel 1000000 --minStep 2 --partitioning singleBlock --repartition multiResolution --angleFactor 15.0 --simFactor 15.0 --pixSizeMarginInitCoef 2.0 --pixSizeMarginFinalCoef 4.0 --voteMarginFactor 4.0 --contributeMarginFactor 2.0 --simGaussianSizeInit 10.0 --simGaussianSize 10.0 --minAngleThreshold 1.0 --refineFuse True --helperPointsGridSize 10 --nPixelSizeBehind 4.0 --fullWeight 1.0 --voteFilteringForWeaklySupportedSurfaces True --addLandmarksToTheDensePointCloud False --invertTetrahedronBasedOnNeighborsNbIterations 10 --minSolidAngleRatio 0.2 --nbSolidAngleFilteringIterations 2 --colorizeOutput False --maxNbConnectedHelperPoints 50 --saveRawDensePointCloud False --exportDebugTetrahedralization False --seed 0 --verboseLevel info --outputMesh \"C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/246903389ff840e24a2029ad049246ee032efda8/mesh.obj\" --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/246903389ff840e24a2029ad049246ee032efda8/densePointCloud.abc\"",
+    "env": null,
+    "startDateTime": "2022-12-20 22:37:20.918393",
+    "endDateTime": "2022-12-20 22:37:29.652338",
+    "elapsedTime": 8.733944654464722,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "a2a7648c-80ad-11ed-b9a2-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:08.733945"
+}

@@ -1,0 +1,135 @@
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/a3645ec86f7881b3b2176a7c46c225d285b177e6/cameraInit.sfm"
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/93f7cfa9b3567427fcbedc2b4f8a7ab0d372893f"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel =  Unknown Type "enum aliceVision::system::EVerboseLevel"
+
+[23:23:15.658076][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce MX330
+	- compute capability:      6.1
+	- total device memory:     2047 MB 
+	- device memory available: 1654 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   2048
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        3
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+0
+[23:23:15.764927][info] Supported CUDA-Enabled GPU detected.
+[23:23:15.764927][info] Job max memory consumption for one image: 939 MB
+[23:23:15.764927][info] Memory information: 
+	- Total RAM:     15.841 GB
+	- Free RAM:      7.80056 GB
+	- Available RAM: 7.80056 GB
+	- Total swap:    131072 GB
+	- Free swap:     131039 GB
+[23:23:15.764927][info] Max number of threads regarding memory usage: 7
+[23:23:15.764927][warning] More than half of the RAM is used by other applications. It would be more efficient to close them.
+[23:23:15.764927][warning]  => 8 GB are used by other applications for a total RAM capacity of 16 GB.
+[23:23:15.764927][info] # threads for extraction: 7
+[23:23:15.927702][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4376.jpg' [cpu]
+[23:23:15.946213][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4380.jpg' [cpu]
+[23:23:15.966568][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4392.jpg' [cpu]
+[23:23:15.976891][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4357.jpg' [cpu]
+[23:23:15.987084][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4356.jpg' [cpu]
+[23:23:15.987084][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4382.jpg' [cpu]
+[23:23:15.999866][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4384.jpg' [cpu]
+[23:23:31.747942][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4382.jpg'
+[23:23:32.121765][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4390.jpg' [cpu]
+[23:23:34.045543][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4356.jpg'
+[23:23:34.174383][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4375.jpg' [cpu]
+[23:23:34.396453][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4357.jpg'
+[23:23:34.530685][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4380.jpg'
+[23:23:34.546887][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4383.jpg' [cpu]
+[23:23:34.591969][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4392.jpg'
+[23:23:34.632637][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4384.jpg'
+[23:23:34.686699][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4396.jpg' [cpu]
+[23:23:34.792906][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4394.jpg' [cpu]
+[23:23:34.823261][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4350.jpg' [cpu]
+[23:23:34.870344][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4376.jpg'
+[23:23:35.006313][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4385.jpg' [cpu]
+[23:23:49.088061][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4390.jpg'
+[23:23:49.252622][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4377.jpg' [cpu]
+[23:23:51.170553][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4394.jpg'
+[23:23:51.334115][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4370.jpg' [cpu]
+[23:23:51.743023][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4375.jpg'
+[23:23:52.133976][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4379.jpg' [cpu]
+[23:23:53.621003][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4396.jpg'
+[23:23:53.743675][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4364.jpg' [cpu]
+[23:23:53.801518][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4383.jpg'
+[23:23:53.888290][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4350.jpg'
+[23:23:53.960094][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4372.jpg' [cpu]
+[23:23:54.037887][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4371.jpg' [cpu]
+[23:23:54.080774][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4385.jpg'
+[23:23:54.209427][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4349.jpg' [cpu]
+[23:24:04.897362][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4377.jpg'
+[23:24:05.485761][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4362.jpg' [cpu]
+[23:24:09.227008][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4370.jpg'
+[23:24:09.362600][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4381.jpg' [cpu]
+[23:24:09.510356][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4379.jpg'
+[23:24:09.632871][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4366.jpg' [cpu]
+[23:24:13.253648][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4372.jpg'
+[23:24:13.528478][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4363.jpg' [cpu]
+[23:24:13.870383][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4349.jpg'
+[23:24:14.035937][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4364.jpg'
+[23:24:14.050897][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4358.jpg' [cpu]
+[23:24:14.167642][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4367.jpg' [cpu]
+[23:24:14.196666][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4371.jpg'
+[23:24:14.329432][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4368.jpg' [cpu]
+[23:24:22.036100][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4362.jpg'
+[23:24:22.186647][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4378.jpg' [cpu]
+[23:24:25.796211][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4381.jpg'
+[23:24:26.386057][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4397.jpg' [cpu]
+[23:24:26.598591][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4366.jpg'
+[23:24:27.010951][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4365.jpg' [cpu]
+[23:24:31.412874][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4358.jpg'
+[23:24:31.542638][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4387.jpg' [cpu]
+[23:24:31.558972][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4363.jpg'
+[23:24:31.681367][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4351.jpg' [cpu]
+[23:24:31.808319][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4367.jpg'
+[23:24:31.931244][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4391.jpg' [cpu]
+[23:24:31.973527][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4368.jpg'
+[23:24:32.093793][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4388.jpg' [cpu]
+[23:24:38.297352][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4378.jpg'
+[23:24:38.424907][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4374.jpg' [cpu]
+[23:24:41.012660][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4397.jpg'
+[23:24:41.255837][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4365.jpg'
+[23:24:41.382509][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4354.jpg' [cpu]
+[23:24:49.077537][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4351.jpg'
+[23:24:49.359514][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4387.jpg'
+[23:24:49.436290][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4389.jpg' [cpu]
+[23:24:49.713672][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4391.jpg'
+[23:24:49.846397][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4359.jpg' [cpu]
+[23:24:49.915106][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4388.jpg'
+[23:24:50.039312][info] Extracting sift features from view 'C:/UNI/N3CAT/images/IMG_4393.jpg' [cpu]
+[23:24:53.191857][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4374.jpg'
+[23:24:54.734350][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4354.jpg'
+[23:25:01.221017][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4359.jpg'
+[23:25:01.360006][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4389.jpg'
+[23:25:01.512456][info]       20000 sift features extracted from view 'C:/UNI/N3CAT/images/IMG_4393.jpg'
+[23:25:01.515068][info] Task done in (s): 105.746000

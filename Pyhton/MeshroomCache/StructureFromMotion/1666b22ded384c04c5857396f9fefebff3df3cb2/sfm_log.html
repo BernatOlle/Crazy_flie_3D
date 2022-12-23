@@ -1,0 +1,66 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>[log] Sequential SfM reconstruction</title>
+</head>
+<h1>[log] Sequential SfM reconstruction</h1>
+<hr>Dataset info:Views count: 13<br><h3>Essential Matrix.</h3>
+
+<b>Robust Essential matrix:</b><br>-> View I:<br>id: 71636616<br>image path: C:/Users/berna/Downloads/IMG_4292.jpg<br>-> View J:<br>id: 317013107<br>image path: C:/Users/berna/Downloads/IMG_4293.jpg<br><br>- Threshold: 8.01642<br>- Resection status: OK<br>- # points used for robust Essential matrix estimation: 402<br>- # points validated by robust estimation: 384<br>- % points validated: 0.955224<br><h3>Initial triangulation - Residual of the robust estimation.<br>Thresholded at: 8.01642</h3>
+<h3>Histogram of residuals</h3>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [545.00000,167.00000,39.00000,7.00000,7.00000,2.00000,1.00000,0.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+var p2 = board.create('point',[8.01642,0.00000], {fixed:true});
+var p3 = board.create('point',[8.01642,545.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,654.00000,4.80000,-109.00000]);
+</script>
+<hr><h4>Robust resection of view 115008507: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4301.jpg<br>- Threshold (error max): 2.81216<br>- Resection status: OK<br>- # points used for Resection: 204<br>- # points validated by robust estimation: 196<br>- % points validated: 0.960784<br><h4>Robust resection of view 2029785837: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4302.jpg<br>- Threshold (error max): 2.89836<br>- Resection status: OK<br>- # points used for Resection: 678<br>- # points validated by robust estimation: 630<br>- % points validated: 0.929204<br><h4>Robust resection of view 918342931: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4294.jpg<br>- Threshold (error max): 2.68981<br>- Resection status: OK<br>- # points used for Resection: 901<br>- # points validated by robust estimation: 840<br>- % points validated: 0.932297<br><h4>Robust resection of view 507164790: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4300.jpg<br>- Threshold (error max): 2.28374<br>- Resection status: OK<br>- # points used for Resection: 405<br>- # points validated by robust estimation: 377<br>- % points validated: 0.930864<br><h4>Robust resection of view 1051025362: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4304.jpg<br>- Threshold (error max): 94.6016<br>- Resection status: OK<br>- # points used for Resection: 74<br>- # points validated by robust estimation: 57<br>- % points validated: 0.77027<br><h4>Robust resection of view 1225063957: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4303.jpg<br>- Threshold (error max): 3.27991<br>- Resection status: OK<br>- # points used for Resection: 69<br>- # points validated by robust estimation: 59<br>- % points validated: 0.855072<br><h4>Robust resection of view 1782773850: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4299.jpg<br>- Threshold (error max): 15.1991<br>- Resection status: FAILED<br>- # points used for Resection: 18<br>- # points validated by robust estimation: 17<br>- % points validated: 0.944444<br><h4>Robust resection of view 469210130: <br></h4>
+
+- Image path: C:/Users/berna/Downloads/IMG_4295.jpg<br>- Threshold (error max): 0<br>- Resection status: FAILED<br>- # points used for Resection: 1<br>- # points validated by robust estimation: 0<br>- % points validated: 0<br><hr><h3>Structure from Motion process finished.</h3>
+Structure from Motion statistics:<br>- # input images: 13<br>- # camera calibrated: 7<br>- # poses: 7
+<br>- # landmarks: 3765<br>- elapsed time: 2.773<br>- residual RMSE: 0.362126<h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.57143,1.14286,1.71429,2.28571,2.85714,3.42857,4.00000,];
+var data1= [7488.00000,1730.00000,388.00000,98.00000,42.00000,16.00000,6.00000,2.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.80000,8985.20000,4.80000,-1495.20000]);
+</script>
+
+<div id="3DtoTracksSize" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoTracksSize', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [2.00000,3.20000,4.40000,5.60000,6.80000,8.00000,];
+var data1= [2474.00000,642.00000,446.00000,112.00000,85.00000,6.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1],strokeColor:'#0000ff',highlightStrokeColor:'#0000ff'});
+board.unsuspendUpdate();
+board.setBoundingBox([0.80000,2967.60000,9.20000,-487.60000]);
+</script>
+</html>

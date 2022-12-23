@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "ImageMatching_1",
+    "nodeType": "ImageMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_imageMatching  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/101cf0128da03517f3802049dcc2e11a2d1f021d/cameraInit.sfm\" --featuresFolders \"C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/b3af35f94f0cb8d02b15bfb44a73211fa8427f37\" --method VocabularyTree --tree \"C:\\Users\\berna\\Downloads\\Meshroom-2021.1.0-win64\\Meshroom-2021.1.0\\aliceVision\\share\\aliceVision\\vlfeat_K80L3.SIFT.tree\" --weights \"\" --minNbImages 200 --maxDescriptors 500 --nbMatches 50 --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/54cd5f2131bee2de3ca41514f57adb0b02bae2c4/imageMatches.txt\"",
+    "env": null,
+    "startDateTime": "2022-12-20 22:34:40.852704",
+    "endDateTime": "2022-12-20 22:34:41.134701",
+    "elapsedTime": 0.2819972038269043,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "a2a7648c-80ad-11ed-b9a2-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.281997"
+}

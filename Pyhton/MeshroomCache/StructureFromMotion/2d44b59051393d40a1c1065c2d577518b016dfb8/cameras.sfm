@@ -1,0 +1,1090 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\..\\FeatureExtraction\\8146ff1a7bf0221ce7186a92401135589fb529fd"
+    ],
+    "matchesFolders": [
+        "..\\..\\FeatureMatching\\2d2741b4e3f805c6735f251cc4121ca3c0acb5b7"
+    ],
+    "views": [
+        {
+            "viewId": "47467727",
+            "poseId": "47467727",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4338.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "149885054",
+            "poseId": "149885054",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4334.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "214244196",
+            "poseId": "214244196",
+            "intrinsicId": "2460111422",
+            "resectionId": "13",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4319.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "518996619",
+            "poseId": "518996619",
+            "intrinsicId": "2460111422",
+            "resectionId": "8",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4330.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "541324800",
+            "poseId": "541324800",
+            "intrinsicId": "2460111422",
+            "resectionId": "7",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4343.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "545453080",
+            "poseId": "545453080",
+            "intrinsicId": "2460111422",
+            "resectionId": "3",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4332.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "638335635",
+            "poseId": "638335635",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4324.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "660098527",
+            "poseId": "660098527",
+            "intrinsicId": "2460111422",
+            "resectionId": "5",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4331.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "673943242",
+            "poseId": "673943242",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4336.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "706171595",
+            "poseId": "706171595",
+            "intrinsicId": "2460111422",
+            "resectionId": "9",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4322.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "717024809",
+            "poseId": "717024809",
+            "intrinsicId": "2460111422",
+            "resectionId": "4",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4346.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "811006544",
+            "poseId": "811006544",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4341.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "821583700",
+            "poseId": "821583700",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4325.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1001553481",
+            "poseId": "1001553481",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4329.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1019912919",
+            "poseId": "1019912919",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4335.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1022682392",
+            "poseId": "1022682392",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4327.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1037766083",
+            "poseId": "1037766083",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4328.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1041322491",
+            "poseId": "1041322491",
+            "intrinsicId": "2460111422",
+            "resectionId": "12",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4320.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1060096640",
+            "poseId": "1060096640",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4345.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1269743005",
+            "poseId": "1269743005",
+            "intrinsicId": "2460111422",
+            "resectionId": "6",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4344.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1456096126",
+            "poseId": "1456096126",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4326.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1467085765",
+            "poseId": "1467085765",
+            "intrinsicId": "2460111422",
+            "resectionId": "0",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4348.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1527843023",
+            "poseId": "1527843023",
+            "intrinsicId": "2460111422",
+            "resectionId": "1",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4347.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1560609777",
+            "poseId": "1560609777",
+            "intrinsicId": "2460111422",
+            "resectionId": "11",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4321.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1711426389",
+            "poseId": "1711426389",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4342.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1762278700",
+            "poseId": "1762278700",
+            "intrinsicId": "2460111422",
+            "resectionId": "14",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4318.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1785119642",
+            "poseId": "1785119642",
+            "intrinsicId": "2460111422",
+            "resectionId": "10",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4323.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1821028232",
+            "poseId": "1821028232",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4340.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1821719250",
+            "poseId": "1821719250",
+            "intrinsicId": "2460111422",
+            "resectionId": "2",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4333.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "65535",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "ICCProfile": "0, 0, 118, 44, 97, 112, 112, 108, 4, 0, 0, 0, 115, 99, 110, 114, 82, 71, 66, 32, 88, 89, 90, 32, 7, 224, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 97, 99, 115, 112, 65, 80, 80, 76, 0, 0, 0, 0, 65, 80, 80, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... [30252 x uint8]",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1944779128",
+            "poseId": "1944779128",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4337.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "2116815287",
+            "poseId": "2116815287",
+            "intrinsicId": "2460111422",
+            "path": "C:\/Users\/berna\/Downloads\/IMG_4339.jpg",
+            "width": "2016",
+            "height": "1512",
+            "metadata": {
+                "AliceVision:useWhiteBalance": "1",
+                "Exif:ColorSpace": "1",
+                "Exif:PixelXDimension": "2016",
+                "Exif:PixelYDimension": "1512",
+                "Orientation": "1",
+                "ResolutionUnit": "none",
+                "XResolution": "72",
+                "YResolution": "72",
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "2460111422",
+            "width": "2016",
+            "height": "1512",
+            "sensorWidth": "-1",
+            "sensorHeight": "-0.75",
+            "serialNumber": "C:\/Users\/berna\/Downloads",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "pxInitialFocalLength": "-1",
+            "pxFocalLength": "1672.1520460273073",
+            "principalPoint": [
+                "1010.8895587474927",
+                "730.62551954742446"
+            ],
+            "distortionParams": [
+                "0.13772617666991779",
+                "-0.54324493165851573",
+                "0.58887280076798698"
+            ],
+            "locked": "0"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "149885054",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99919869092080937",
+                        "0.0054841559414982909",
+                        "-0.039647195307488975",
+                        "-0.0047670301579800399",
+                        "0.99982373582585982",
+                        "0.018159644894495432",
+                        "0.039739797251794773",
+                        "-0.017956094030456463",
+                        "0.99904871112551641"
+                    ],
+                    "center": [
+                        "0.046664256128992561",
+                        "-0.03806697664713727",
+                        "0.27206131394038746"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "214244196",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.79785392454434578",
+                        "0.26632710812262866",
+                        "-0.54083175440077746",
+                        "-0.27680472734639733",
+                        "0.63512075621407882",
+                        "0.72111078756647562",
+                        "0.53554482352821964",
+                        "0.72504585820835754",
+                        "-0.43301298535613703"
+                    ],
+                    "center": [
+                        "1.6202395967541527",
+                        "-1.8906900079308331",
+                        "3.2120369228936192"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "518996619",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.27413058897570319",
+                        "0.37857979375309014",
+                        "-0.88404171844415902",
+                        "-0.2684678013041768",
+                        "0.91283579944569393",
+                        "0.30766189707736297",
+                        "0.92345950634055141",
+                        "0.15299719936066986",
+                        "0.35187270018723582"
+                    ],
+                    "center": [
+                        "2.2387676955950617",
+                        "-0.56393244716952373",
+                        "1.7036894677843117"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "541324800",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.55304556420224449",
+                        "0.28366659162417712",
+                        "-0.78337339035261055",
+                        "-0.21583611493617311",
+                        "0.95693512028618555",
+                        "0.19413898900561638",
+                        "0.80470825483865904",
+                        "0.061712562409821203",
+                        "0.59045421857696445"
+                    ],
+                    "center": [
+                        "2.2073109045638066",
+                        "-0.61371004407165675",
+                        "0.99806568166711884"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "545453080",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.95100281185492153",
+                        "0.083371200220757863",
+                        "-0.29772956658313776",
+                        "-0.07149395263567021",
+                        "0.99615763056221351",
+                        "0.050582504971630964",
+                        "0.30080270374543061",
+                        "-0.026818240927153132",
+                        "0.95330924435516307"
+                    ],
+                    "center": [
+                        "0.86497862876823484",
+                        "-0.050548267230702708",
+                        "0.23044061291192625"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "660098527",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.6985899227127792",
+                        "0.25732571700730794",
+                        "-0.66764930558701863",
+                        "-0.20841601054406111",
+                        "0.9658128844718844",
+                        "0.15416951299461348",
+                        "0.68449608211665536",
+                        "0.031447536545385291",
+                        "0.72833794766727322"
+                    ],
+                    "center": [
+                        "1.7677015750218608",
+                        "-0.19938682665032353",
+                        "0.58929059303441933"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "706171595",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.10570589584653398",
+                        "0.56549343197820345",
+                        "-0.81795075766991898",
+                        "-0.39067219833791161",
+                        "0.73280265705732528",
+                        "0.55711354251673639",
+                        "0.91444053772189315",
+                        "0.37844080673103536",
+                        "0.14346100087361011"
+                    ],
+                    "center": [
+                        "2.0477382608154633",
+                        "-1.2503601952131516",
+                        "1.5440669152814621"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "717024809",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.97712245317709245",
+                        "-0.012491829262804791",
+                        "-0.21231030521114541",
+                        "0.013074105417703458",
+                        "0.99991363389508903",
+                        "0.0013388495974864549",
+                        "0.21227524411647147",
+                        "-0.0040839873147264366",
+                        "0.97720138240943233"
+                    ],
+                    "center": [
+                        "0.64804834142532508",
+                        "-0.46180128975588569",
+                        "0.079199575144816736"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1041322491",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.69067209990191847",
+                        "0.33265988770522137",
+                        "-0.64211326845738348",
+                        "-0.30891260681590571",
+                        "0.66711543493281633",
+                        "0.67788641956053441",
+                        "0.65386929257098159",
+                        "0.66655412052311902",
+                        "-0.35799518522792356"
+                    ],
+                    "center": [
+                        "1.7722433272441136",
+                        "-1.7828952910687417",
+                        "2.836398560105482"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1060096640",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.95394209903774974",
+                        "0.067852581386873972",
+                        "-0.29221652739465254",
+                        "-0.051597741250571837",
+                        "0.99667960330874084",
+                        "0.062987629310604268",
+                        "0.29552012584812415",
+                        "-0.045008838548319607",
+                        "0.9542756727860352"
+                    ],
+                    "center": [
+                        "0.75230242036724282",
+                        "-0.12053687399027174",
+                        "0.31524231331517016"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1269743005",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.80780377611564236",
+                        "0.2127547875147629",
+                        "-0.549716708571658",
+                        "-0.15552233779290353",
+                        "0.97647218052481732",
+                        "0.14938166925208238",
+                        "0.56856473839021981",
+                        "-0.035177848863405581",
+                        "0.8218860366307511"
+                    ],
+                    "center": [
+                        "1.6724074855063054",
+                        "-0.56334893975807898",
+                        "0.31927601000321748"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1467085765",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.99581265638067862",
+                        "-0.0057972211515387173",
+                        "-0.091233467647441086",
+                        "0.010042740514307414",
+                        "0.99888428563499032",
+                        "0.046144634297363346",
+                        "0.090864166507038491",
+                        "-0.046867644899176081",
+                        "0.99475983388282518"
+                    ],
+                    "center": [
+                        "0.20461182121700883",
+                        "-0.1720563066348669",
+                        "0.55409555556040502"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1527843023",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98980760866411999",
+                        "-0.011215789870914952",
+                        "-0.14196867220689113",
+                        "0.017363703180287595",
+                        "0.99896081191275921",
+                        "0.042140219202892036",
+                        "0.14134850421027839",
+                        "-0.044175811482896406",
+                        "0.98897376003478699"
+                    ],
+                    "center": [
+                        "0.31415571078871679",
+                        "-0.22458507602254854",
+                        "0.18737599566803725"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1560609777",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.4056612836814058",
+                        "0.48282081817310563",
+                        "-0.77609469812685017",
+                        "-0.37398273387013437",
+                        "0.68709189115694502",
+                        "0.62292989001443233",
+                        "0.83401189301410694",
+                        "0.54294455577436762",
+                        "-0.098159929024018044"
+                    ],
+                    "center": [
+                        "2.0609872125018107",
+                        "-1.5393618714306969",
+                        "2.1815804778565004"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1762278700",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.9355281993969049",
+                        "0.12661005873951298",
+                        "-0.32978308197838463",
+                        "-0.20296127245912854",
+                        "0.57144240244857203",
+                        "0.79514797526345715",
+                        "0.28912576850733368",
+                        "0.81081654750614285",
+                        "-0.50890354319385755"
+                    ],
+                    "center": [
+                        "0.8885092750471586",
+                        "-1.9303441293245851",
+                        "3.4382562607128015"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1785119642",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.41616984422980241",
+                        "0.36965498264236579",
+                        "-0.83075739813823757",
+                        "-0.36838218243837012",
+                        "0.76675580618694461",
+                        "0.5257186522661641",
+                        "0.83132257783346974",
+                        "0.52482447302529711",
+                        "-0.18292633516810483"
+                    ],
+                    "center": [
+                        "1.825697782432413",
+                        "-0.75262151344011496",
+                        "2.4885919775456147"
+                    ]
+                },
+                "locked": "0"
+            }
+        },
+        {
+            "poseId": "1821719250",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.98495451551277002",
+                        "0.045162212455015185",
+                        "-0.16680820404636124",
+                        "-0.044278739248300988",
+                        "0.99897855272332658",
+                        "0.0090135702908833368",
+                        "0.16704489103706641",
+                        "-0.001491899787451091",
+                        "0.98594816223442439"
+                    ],
+                    "center": [
+                        "0.45874484472673283",
+                        "-0.049959394448896161",
+                        "0.21779798797755992"
+                    ]
+                },
+                "locked": "0"
+            }
+        }
+    ]
+}

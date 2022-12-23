@@ -1,0 +1,20 @@
+Program called with the following parameters:
+ * computeNormalMaps = 0
+ * depthMapsFolder = "C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMap/ec7dfb739154d2d15a53d7cc9a9857b919038789"
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/2d44b59051393d40a1c1065c2d577518b016dfb8/sfm.abc"
+ * maxViewAngle = 70
+ * minNumOfConsistentCams = 3
+ * minNumOfConsistentCamsWithLowSimilarity = 4
+ * minViewAngle = 2
+ * nNearestCams = 10
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMapFilter/f7bfda3e640e84febb0e8360989b1925ba0718dc"
+ * pixSizeBall = 0
+ * pixSizeBallWithLowSimilarity = 0
+ * rangeSize = 10
+ * rangeStart = 20
+ * verboseLevel = "info"
+
+[23:01:58.541533][info] Found 1 image dimension(s): 
+[23:01:58.542528][info] 	- [2016x1512]
+[23:01:58.558486][info] Overall maximum dimension: [2016x1512]
+[23:01:58.558486][info] No camera to process.

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/a3645ec86f7881b3b2176a7c46c225d285b177e6/cameraInit.sfm\" --featuresFolders \"C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/93f7cfa9b3567427fcbedc2b4f8a7ab0d372893f\" --imagePairsList \"C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt\" --describerTypes sift --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --geometricError 0.0 --knownPosesGeometricErrorMax 5.0 --maxMatches 0 --savePutativeMatches False --crossMatching False --guidedMatching False --matchFromKnownCameraPoses False --exportDebugFiles False --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureMatching/caf025531b80de7766cd5b715b4376a65f9a25fb\" --rangeStart 40 --rangeSize 20",
+    "env": null,
+    "startDateTime": "2022-12-20 23:32:29.555067",
+    "endDateTime": "2022-12-20 23:32:45.160095",
+    "elapsedTime": 15.605027914047241,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "9118305e-80b0-11ed-ad3f-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:15.605028"
+}

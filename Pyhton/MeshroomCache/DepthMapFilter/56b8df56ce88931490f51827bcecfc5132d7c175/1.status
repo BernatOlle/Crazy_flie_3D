@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "DepthMapFilter_1",
+    "nodeType": "DepthMapFilter",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_depthMapFiltering  --input \"C:/UNI/N3CAT/Pyhton/MeshroomCache/StructureFromMotion/1666b22ded384c04c5857396f9fefebff3df3cb2/sfm.abc\" --depthMapsFolder \"C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMap/c7e3dfe17c7fccf7d97de20cbf43c5e42548050c\" --minViewAngle 2.0 --maxViewAngle 70.0 --nNearestCams 10 --minNumOfConsistentCams 3 --minNumOfConsistentCamsWithLowSimilarity 4 --pixSizeBall 0 --pixSizeBallWithLowSimilarity 0 --computeNormalMaps False --verboseLevel info --output \"C:/UNI/N3CAT/Pyhton/MeshroomCache/DepthMapFilter/56b8df56ce88931490f51827bcecfc5132d7c175\" --rangeStart 10 --rangeSize 10",
+    "env": null,
+    "startDateTime": "2022-12-20 22:37:19.246619",
+    "endDateTime": "2022-12-20 22:37:19.434703",
+    "elapsedTime": 0.18808388710021973,
+    "hostname": "Bernat-MSI",
+    "sessionUid": "a2a7648c-80ad-11ed-b9a2-00e04c360b64",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.188084"
+}

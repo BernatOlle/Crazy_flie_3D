@@ -1,0 +1,18 @@
+Program called with the following parameters:
+ * featuresFolders =  = [C:/UNI/N3CAT/Pyhton/MeshroomCache/FeatureExtraction/93f7cfa9b3567427fcbedc2b4f8a7ab0d372893f]
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/CameraInit/a3645ec86f7881b3b2176a7c46c225d285b177e6/cameraInit.sfm"
+ * matchingMode = "a/a" (default)
+ * maxDescriptors = 500
+ * method =  Unknown Type "enum EImageMatchingMethod"
+ * minNbImages = 200
+ * nbMatches = 50
+ * nbNeighbors = 50 (default)
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt"
+ * outputCombinedSfM = "" (default)
+ * tree = "C:\Users\berna\Downloads\Meshroom-2021.1.0-win64\Meshroom-2021.1.0\aliceVision\share\aliceVision\vlfeat_K80L3.SIFT.tree"
+ * verboseLevel = "info"
+ * weights = ""
+
+[23:25:29.217091][info] Use EXHAUSTIVE method.
+[23:25:29.217091][info] Number of selected image pairs: 1176
+[23:25:29.221074][info] pairList exported in: C:/UNI/N3CAT/Pyhton/MeshroomCache/ImageMatching/06b3fe45025dba4c7a9400cadb364711127d45f8/imageMatches.txt

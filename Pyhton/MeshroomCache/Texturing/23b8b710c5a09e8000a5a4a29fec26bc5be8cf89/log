@@ -1,0 +1,122 @@
+Program called with the following parameters:
+ * angleHardThreshold = 90
+ * bestScoreThreshold = 0.1
+ * correctEV = 0
+ * downscale =  Unknown Type "unsigned int"
+ * fillHoles = 0
+ * flipNormals = 0
+ * forceVisibleByAllVertices = 0
+ * imagesFolder = "C:/UNI/N3CAT/Pyhton/MeshroomCache/PrepareDenseScene/e310558ad44b5909ac834f4b445278ee3be8bf20"
+ * input = "C:/UNI/N3CAT/Pyhton/MeshroomCache/Meshing/246903389ff840e24a2029ad049246ee032efda8/densePointCloud.abc"
+ * inputMesh = "C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/7e104fbf7fe753b4d6cd20894839dbd058478a6e/mesh.obj"
+ * multiBandDownscale =  Unknown Type "unsigned int"
+ * multiBandNbContrib =  Unknown Type "class std::vector<int,class std::allocator<int> >"
+ * output = "C:/UNI/N3CAT/Pyhton/MeshroomCache/Texturing/23b8b710c5a09e8000a5a4a29fec26bc5be8cf89"
+ * outputTextureFileType = "png"
+ * padding =  Unknown Type "unsigned int"
+ * processColorspace = "sRGB"
+ * subdivisionTargetRatio = 0.8
+ * textureSide =  Unknown Type "unsigned int"
+ * unwrapMethod = "Basic"
+ * useScore = 1
+ * useUDIM = 1
+ * verboseLevel = "info"
+ * visibilityRemappingMethod = "PullPush"
+
+[22:37:31.853229][info] Load dense point cloud.
+[22:37:31.859199][warning] Alembic LOAD: NO OBSERVATIONS_WITH_FEATURES: , mvg_visibilityFeatId: 0, mvg_visibilityFeatPos: 0, OBSERVATIONS_WITH_FEATURES flag: false
+[22:37:31.874157][info] Found 1 image dimension(s): 
+[22:37:31.874157][info] 	- [2016x1512]
+[22:37:31.888120][info] Overall maximum dimension: [2016x1512]
+[22:37:31.889156][info] Load input mesh.
+[22:37:31.889156][info] Loading mesh from obj file: C:/UNI/N3CAT/Pyhton/MeshroomCache/MeshFiltering/7e104fbf7fe753b4d6cd20894839dbd058478a6e/mesh.obj
+[22:37:31.900125][info] 	- # vertices: 15558
+	- # normals: 0
+	- # uv coordinates: 0
+	- # triangles: 30880
+[22:37:31.941977][info] Mesh loaded: 
+	- #points: 15558
+	- # triangles: 30880
+[22:37:31.942975][info] Convert dense point cloud into ref mesh
+[22:37:31.953943][info] remapMeshVisibility based on triangles start.
+[22:37:31.995831][info] remapMeshVisibility done.
+[22:37:31.995831][info] Input mesh has no UV coordinates, start unwrapping (Basic)
+[22:37:31.995831][info] Generating UVs (textureSide: 8192; padding: 5).
+[22:37:31.995831][info] Creating texture charts.
+[22:37:32.052686][info] Packing texture charts (30880 charts).
+[22:37:32.161399][info] Finalize packed charts (97 charts).
+[22:37:32.167372][info] Creating texture atlases.
+[22:37:32.167372][info] 	- texture atlas 1
+[22:37:32.167372][info] Filled with 97 charts.
+[22:37:32.193304][info] Unwrapping done.
+[22:37:32.194301][info] Writing obj and mtl file.
+[22:37:32.290067][info] Writing done: 
+	- obj file: C:/UNI/N3CAT/Pyhton/MeshroomCache/Texturing/23b8b710c5a09e8000a5a4a29fec26bc5be8cf89\texturedMesh.obj
+	- mtl file: C:/UNI/N3CAT/Pyhton/MeshroomCache/Texturing/23b8b710c5a09e8000a5a4a29fec26bc5be8cf89\texturedMesh.mtl
+[22:37:32.291051][info] Subdivide mesh.
+[22:37:32.291051][info] nb pts init: 15558
+[22:37:32.291051][info] nb tris init: 30880
+[22:37:32.291051][info] nb points in refMesh: 15558
+[22:37:32.291051][info] targetNbPts: 12446
+[22:37:32.294044][info] No subdivision needed.
+[22:37:32.294044][info] Number of triangle subdivisions: 0
+[22:37:32.294044][info] updateAtlases
+[22:37:32.303010][info] remapMeshVisibility based on triangles start.
+[22:37:32.342904][info] remapMeshVisibility done.
+[22:37:32.342904][info] Generate textures.
+[22:37:32.342904][info] Texturing: Use multiband blending with the following contributions per band:
+[22:37:32.343901][info]   - 1
+[22:37:32.343901][info]   - 5
+[22:37:32.343901][info]   - 10
+[22:37:32.343901][info] Texturing in sRGB colorspace.
+[22:37:32.343901][info] Images loaded from cache with: no exposure correction
+[22:37:32.343901][info] nbAtlas: 1
+[22:37:32.343901][info] availableRam: 8301
+[22:37:32.343901][info] availableMem: 8029
+[22:37:32.343901][info] memoryPerAtlas: 3208
+[22:37:32.343901][info] nbAtlasMax (after rounding): 1
+[22:37:32.343901][info] Total amount of available RAM: 8301 MB.
+[22:37:32.343901][info] Total amount of memory remaining for the computation: 8029 MB.
+[22:37:32.343901][info] Total amount of an image in memory: 34 MB.
+[22:37:32.343901][info] Total amount of an atlas pyramid in memory: 3072 MB.
+[22:37:32.343901][info] Processing 1 atlases by chunks of 1
+[22:37:32.343901][info] Generating texture for atlases 1 to 1
+[22:37:32.343901][info] Generating texture for atlas 1/1 (30862 triangles).
+[22:37:32.560376][info] Reading pixel color.
+[22:37:33.497818][info] - camera 71636616 (1/7) with contributions to 1 texture files:
+[22:37:33.879799][info]   - Texture file: 1
+[22:37:33.879799][info]       - band 1: 1396 triangles.
+[22:37:33.890765][info]       - band 2: 28608 triangles.
+[22:37:33.978532][info]       - band 3: 0 triangles.
+[22:37:33.982519][info] - camera 115008507 (2/7) with contributions to 1 texture files:
+[22:37:34.387453][info]   - Texture file: 1
+[22:37:34.387453][info]       - band 1: 145 triangles.
+[22:37:34.389446][info]       - band 2: 30121 triangles.
+[22:37:34.493156][info]       - band 3: 0 triangles.
+[22:37:34.500137][info] - camera 317013107 (3/7) with contributions to 1 texture files:
+[22:37:34.908047][info]   - Texture file: 1
+[22:37:34.908047][info]       - band 1: 9174 triangles.
+[22:37:34.951929][info]       - band 2: 21225 triangles.
+[22:37:35.039696][info]       - band 3: 0 triangles.
+[22:37:35.046683][info] - camera 507164790 (4/7) with contributions to 1 texture files:
+[22:37:35.468549][info]   - Texture file: 1
+[22:37:35.468549][info]       - band 1: 35 triangles.
+[22:37:35.468549][info]       - band 2: 30194 triangles.
+[22:37:35.571271][info]       - band 3: 0 triangles.
+[22:37:35.579259][info] - camera 918342931 (5/7) with contributions to 1 texture files:
+[22:37:35.966260][info]   - Texture file: 1
+[22:37:35.966260][info]       - band 1: 6160 triangles.
+[22:37:35.991150][info]       - band 2: 23086 triangles.
+[22:37:36.065949][info]       - band 3: 0 triangles.
+[22:37:36.072933][info] - camera 1225063957 (6/7) unused.
+[22:37:36.072933][info] - camera 2029785837 (7/7) with contributions to 1 texture files:
+[22:37:36.475854][info]   - Texture file: 1
+[22:37:36.475854][info]       - band 1: 13656 triangles.
+[22:37:36.545666][info]       - band 2: 16536 triangles.
+[22:37:36.598524][info]       - band 3: 0 triangles.
+[22:37:36.604509][info] Create texture 1
+[22:37:36.604509][info]   - Computing final (average) color.
+[22:37:37.350555][info]   - Edge padding (15 pixels).
+[22:37:37.876109][info]   - Downscaling texture (2x).
+[22:37:44.939788][info]   - Writing texture file: C:/UNI/N3CAT/Pyhton/MeshroomCache/Texturing/23b8b710c5a09e8000a5a4a29fec26bc5be8cf89\texture_1001.png
+[22:37:46.256223][info] Task done in (s): 14.407000
