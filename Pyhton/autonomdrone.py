@@ -1,1 +1,1 @@
-print("adeu")
+print("pene")
